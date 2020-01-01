@@ -1,0 +1,26 @@
+Borough,Neighborhood,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+North York,"Fairview, Henry Farm, Oriole",43.7785175,-79.3465557,2,Clothing Store,Coffee Shop,Fast Food Restaurant,Food Court,Bakery,Japanese Restaurant,Women's Store,Toy / Game Store,Lingerie Store,Boutique
+North York,Willowdale South,43.7701199,-79.40849279999998,1,Coffee Shop,Sushi Restaurant,Ramen Restaurant,Restaurant,Sandwich Place,Pizza Place,Café,Bubble Tea Shop,Plaza,Electronics Store
+East York,Leaside,43.7090604,-79.3634517,1,Coffee Shop,Sporting Goods Shop,Sandwich Place,Burger Joint,Furniture / Home Store,Gym,Clothing Store,Bike Shop,Electronics Store,Sports Bar
+East Toronto,"The Danforth West, Riverdale",43.6795571,-79.352188,4,Greek Restaurant,Coffee Shop,Ice Cream Shop,Italian Restaurant,Furniture / Home Store,Restaurant,Yoga Studio,Pizza Place,Brewery,Bubble Tea Shop
+East Toronto,Studio District,43.6595255,-79.340923,1,Café,Coffee Shop,Bakery,American Restaurant,Gastropub,Italian Restaurant,Convenience Store,Seafood Restaurant,Sandwich Place,Cheese Shop
+Central Toronto,Davisville,43.7043244,-79.3887901,0,Sandwich Place,Dessert Shop,Pizza Place,Gym,Café,Italian Restaurant,Sushi Restaurant,Coffee Shop,Seafood Restaurant,Farmers Market
+Downtown Toronto,"Cabbagetown, St. James Town",43.667967,-79.3676753,0,Coffee Shop,Restaurant,Italian Restaurant,Café,Pizza Place,Bakery,Market,Pub,Snack Place,Japanese Restaurant
+Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000002,1,Coffee Shop,Japanese Restaurant,Gay Bar,Sushi Restaurant,Restaurant,Pub,Men's Store,Mediterranean Restaurant,Smoke Shop,Hotel
+Downtown Toronto,Harbourfront,43.6542599,-79.3606359,1,Coffee Shop,Park,Pub,Bakery,Mexican Restaurant,Café,Breakfast Spot,Spa,Ice Cream Shop,French Restaurant
+Downtown Toronto,"Ryerson, Garden District",43.6571618,-79.37893709999999,1,Coffee Shop,Clothing Store,Cosmetics Shop,Café,Middle Eastern Restaurant,Burger Joint,Diner,Bakery,Bookstore,Pizza Place
+Downtown Toronto,St. James Town,43.6514939,-79.3754179,1,Café,Coffee Shop,Restaurant,Hotel,Breakfast Spot,Beer Bar,Clothing Store,Cosmetics Shop,Cocktail Bar,Italian Restaurant
+Downtown Toronto,Berczy Park,43.6447708,-79.3733064,1,Coffee Shop,Cocktail Bar,Seafood Restaurant,Farmers Market,Cheese Shop,Steakhouse,Beer Bar,Café,Bakery,Hotel
+Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,1,Coffee Shop,Sandwich Place,Café,Italian Restaurant,Burger Joint,Ice Cream Shop,Bakery,Bubble Tea Shop,Bar,Chinese Restaurant
+Downtown Toronto,"Adelaide, King, Richmond",43.65057120000001,-79.3845675,1,Coffee Shop,Café,Steakhouse,Bar,Restaurant,Burger Joint,Sushi Restaurant,Asian Restaurant,Thai Restaurant,Gym
+Downtown Toronto,"Harbourfront East, Toronto Islands, Union Station",43.6408157,-79.38175229999997,1,Coffee Shop,Aquarium,Hotel,Café,Italian Restaurant,Scenic Lookout,Fried Chicken Joint,Restaurant,Brewery,Plaza
+Downtown Toronto,"Design Exchange, Toronto Dominion Centre",43.6471768,-79.38157640000001,1,Coffee Shop,Hotel,Café,Restaurant,Italian Restaurant,American Restaurant,Gastropub,Deli / Bodega,Seafood Restaurant,Bar
+Downtown Toronto,"Commerce Court, Victoria Hotel",43.6481985,-79.37981690000002,1,Coffee Shop,Café,Hotel,Restaurant,Seafood Restaurant,Italian Restaurant,Gym,Gastropub,Steakhouse,Deli / Bodega
+Downtown Toronto,"Harbord, University of Toronto",43.6626956,-79.4000493,0,Café,Bookstore,Italian Restaurant,Japanese Restaurant,Sandwich Place,Restaurant,Bar,Bakery,Comfort Food Restaurant,Poutine Place
+Downtown Toronto,"Chinatown, Grange Park, Kensington Market",43.6532057,-79.4000493,0,Café,Vietnamese Restaurant,Vegetarian / Vegan Restaurant,Bar,Coffee Shop,Dumpling Restaurant,Chinese Restaurant,Bakery,Mexican Restaurant,Grocery Store
+Downtown Toronto,Stn A PO Boxes 25 The Esplanade,43.6464352,-79.37484599999998,1,Coffee Shop,Café,Restaurant,Seafood Restaurant,Japanese Restaurant,Hotel,Cocktail Bar,Beer Bar,Breakfast Spot,Farmers Market
+Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.3822802,1,Coffee Shop,Café,Hotel,Gym,Restaurant,Steakhouse,Deli / Bodega,Gastropub,Bar,Burger Joint
+West Toronto,"Little Portugal, Trinity",43.647926700000006,-79.4197497,1,Bar,Restaurant,Asian Restaurant,Vegetarian / Vegan Restaurant,Men's Store,Pizza Place,Coffee Shop,Vietnamese Restaurant,Café,Cocktail Bar
+West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,0,Café,Coffee Shop,Sushi Restaurant,Italian Restaurant,Bookstore,Pizza Place,Falafel Restaurant,French Restaurant,Indie Movie Theater,Grocery Store
+Queen's Park,Queen's Park,43.6623015,-79.3894938,3,Coffee Shop,Gym,Park,Burger Joint,Burrito Place,Café,Sandwich Place,Chinese Restaurant,Portuguese Restaurant,College Auditorium
+Downtown Toronto,Queen's Park,43.6678556,-79.53224240000002,3,Coffee Shop,Gym,Park,Burger Joint,Burrito Place,Café,Sandwich Place,Chinese Restaurant,Portuguese Restaurant,College Auditorium
